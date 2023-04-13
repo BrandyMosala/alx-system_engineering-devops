@@ -1,2 +1,2 @@
 #!/bin/bash
-USER_NAME=$(id -un)
+id -un
